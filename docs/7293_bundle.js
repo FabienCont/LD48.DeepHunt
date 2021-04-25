@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[7293],{7293:(e,s,t)=>{"use strict";function i(e){var s=e.get("position"),t=s.x,i=s.y;this.$variables.checkpoint={x:t,y:i}}t.r(s),t.d(s,{default:()=>i})}}]);
+//# sourceMappingURL=7293_bundle.js.map

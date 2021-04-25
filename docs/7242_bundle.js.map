@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/common/get-screen-width.js"],"names":["getScreenWidth","this","size","width"],"mappings":"oFAAe,SAASA,IACtB,OAAOC,KAAKC,KAAKC,M","file":"7242_bundle.js","sourcesContent":["export default function getScreenWidth() {\n  return this.size.width;\n}\n"],"sourceRoot":""}

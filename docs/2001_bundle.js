@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2001],{2001:e=>{"use strict";e.exports=JSON.parse('{"name":"sounds","params":{"parts":{"_type":"dico","_default":{},"_dico":{"_type":"object","name":{"_type":"string"},"scope":{"_type":"string"},"isPlayed":{"_type":"boolean","_default":false},"node":{"_type":"object","_default":false}}}}}')}}]);

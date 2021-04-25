@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[889],{889:(t,a,e)=>{"use strict";function s(t,a,e,s,u,h,i,n){var r=t.get("rotate");Math.abs(r.z)>60&&(r.z=60*Math.sign(r.z))}e.r(a),e.d(a,{default:()=>s,rotateLimit:()=>s})}}]);
+//# sourceMappingURL=889_bundle.js.map

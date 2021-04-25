@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[978],{978:(t,e,r)=>{"use strict";r.r(e),r.d(e,{default:()=>a});var n=r(2294);function a(){var t=n.U2("bestScore");return void 0!==t?t:0}},2294:(t,e,r)=>{"use strict";function n(t){var e=window.localStorage.getItem(t);return e?JSON.parse(e):e}function a(t,e){window.localStorage.setItem(t,JSON.stringify(e))}r.d(e,{U2:()=>n,t8:()=>a})}}]);
+//# sourceMappingURL=978_bundle.js.map

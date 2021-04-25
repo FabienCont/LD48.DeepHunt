@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5092],{5092:(e,a,t)=>{"use strict";t.r(a),t.d(a,{default:()=>o});var n=t(2175);function o(e){if(!e.get("timeout")){var a=n.gr.call(this,{name:"timeout",scope:"common",params:{ending:{scope:"aJam",name:"ennemyLoopRightLeft"},duration:500}});e.add(a)}}}}]);
+//# sourceMappingURL=5092_bundle.js.map

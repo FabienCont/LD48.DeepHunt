@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[7779],{7779:(e,i,s)=>{"use strict";function t(){var e=this;!1===this.preloading&&!1===this.$variables.redirect&&(setTimeout((function(){e.load(e.$variables.nextScene)}),this.loadingTime),this.$variables.redirect=!0)}s.r(i),s.d(i,{checkPreload:()=>t})}}]);
+//# sourceMappingURL=7779_bundle.js.map

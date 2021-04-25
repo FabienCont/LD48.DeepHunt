@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/editor/release.js"],"names":["release","this","$variables","$debug","isClicked"],"mappings":"oFAAe,SAASA,IACtBC,KAAKC,WAAWC,OAAOC,WAAY,E","file":"5375_bundle.js","sourcesContent":["export default function release() {\n  this.$variables.$debug.isClicked = false;\n}\n"],"sourceRoot":""}

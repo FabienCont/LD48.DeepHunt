@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5408],{5408:e=>{"use strict";e.exports=JSON.parse('{"name":"player","params":{}}')}}]);

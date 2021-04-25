@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6599],{6599:(e,l,s)=>{"use strict";function t(){var e=this.$variables.$debug;if(e.isClicked=!0,e.hoverElements.length>0&&!0===e.multipleSelection){var l=e.hoverElements[e.hoverLevel],s=e.selectedElements.indexOf(l);e.isFocus=!1,e.focusElement=null,-1===s?e.selectedElements.push(l):e.selectedElements.splice(s,1)}else e.isFocus=!1,e.selectedElements.splice(0),e.focusElement=null}s.r(l),s.d(l,{default:()=>t})}}]);
+//# sourceMappingURL=6599_bundle.js.map

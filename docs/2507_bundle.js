@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2507],{2507:(e,s,t)=>{"use strict";function i(){var e=this.$variables.$debug,s=[];e.selectedElements.forEach((function(e){s.push(e.index)})),this.params.deleteEntities({indexes:s}),e.selectedElements.splice(0)}t.r(s),t.d(s,{default:()=>i})}}]);
+//# sourceMappingURL=2507_bundle.js.map

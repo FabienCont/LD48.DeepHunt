@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/aJam/removeInputsPerso.js"],"names":["entity","remove"],"mappings":"oFAEe,SAAS,EAACA,GACrBA,EAAOC,OAAO,U","file":"2426_bundle.js","sourcesContent":["import { createComponentFromModel } from 'core/loadEntities';\n\nexport default function (entity) {\n    entity.remove('inputs');\n}\n"],"sourceRoot":""}

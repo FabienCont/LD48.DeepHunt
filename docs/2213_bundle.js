@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2213],{2213:(e,a,t)=>{"use strict";t.r(a),t.d(a,{default:()=>r});var s=t(2175);function r(e){var a=s.gr.call(this,{name:"forces",scope:"common",params:{parts:{moveLeft:{x:-18,y:0,z:0,rotateX:0,rotateY:0,duration:100,easing:{scope:"ease",name:"easeInCubic"},elapsed:0}}}}),t=e.get("forces");delete t.parts.moveRight;var r=e.get("sprites");r.parts.main.animation.frame=0,r.parts.main.source="perso-walk-left",t.parts.moveLeft=a.parts.moveLeft}}}]);
+//# sourceMappingURL=2213_bundle.js.map

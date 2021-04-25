@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/aJam/handle-hitbox-end.js"],"names":["entity","collides","this","load"],"mappings":"oFAAe,SAAS,EAACA,EAAQC,GAC/BC,KAAKC,KAAK,O","file":"7548_bundle.js","sourcesContent":["export default function (entity, collides) {\n  this.load('end');\n}\n"],"sourceRoot":""}

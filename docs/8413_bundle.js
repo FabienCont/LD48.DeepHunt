@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8413],{8413:(e,s,t)=>{"use strict";function i(e){var s=e.x,t=e.y;this.scripts.snippets.editor.entityMove({x:s,y:t})}t.r(s),t.d(s,{default:()=>i})}}]);
+//# sourceMappingURL=8413_bundle.js.map

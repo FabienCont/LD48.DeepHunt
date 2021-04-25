@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[4700],{4700:e=>{"use strict";e.exports=JSON.parse('{"name":"size","params":{"x":{"_type":"number","_default":1},"y":{"_type":"number","_default":1},"z":{"_type":"number","_default":1}}}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5191],{5191:e=>{"use strict";e.exports=JSON.parse('{"name":"decor","params":{}}')}}]);

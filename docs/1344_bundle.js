@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[1344],{1344:(e,s,t)=>{"use strict";function i(){var e=this.$variables.$debug,s=[];e.selectedElements.forEach((function(e){s.push(e.index)})),this.params.copyEntities({indexes:s,pos:e.cursorPos})}t.r(s),t.d(s,{default:()=>i})}}]);
+//# sourceMappingURL=1344_bundle.js.map

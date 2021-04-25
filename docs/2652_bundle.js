@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2652],{2652:(s,e,a)=>{"use strict";function i(s){var e=s.x,a=s.y;if(this.$cameras.debug){var i=this.$variables.$debug.oldPos.x-e,t=this.$variables.$debug.oldPos.y-a;this.scripts.snippets.editor.cameraMove({x:i/10,y:t/10})}}a.r(e),a.d(e,{default:()=>i})}}]);
+//# sourceMappingURL=2652_bundle.js.map

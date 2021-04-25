@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6639],{6639:(e,a,s)=>{"use strict";s.r(a),s.d(a,{default:()=>o});var r=s(2175);function o(e){var a=r.gr.call(this,{name:"forces",scope:"common",params:{parts:{removeDiscover:{x:0,y:0,z:0,rotateX:0,rotateY:0,duration:1e3,easing:{scope:"ease",name:"easeLinear"},ending:{scope:"aJam",name:"ennemyRemoveDiscover"},elapsed:0}}}});e.get("forces").parts.removeDiscover=a.parts.removeDiscover}}}]);
+//# sourceMappingURL=6639_bundle.js.map

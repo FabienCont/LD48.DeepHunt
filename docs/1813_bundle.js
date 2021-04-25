@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[1813],{1813:s=>{"use strict";s.exports=JSON.parse('[{"x":0,"y":0,"columns":1,"rows":1,"width":64,"height":64,"animations":[{"frames":[{"x":0,"y":0,"width":64,"height":64}],"framerate":8,"alias":"bush"}],"alias":"bush"}]')}}]);

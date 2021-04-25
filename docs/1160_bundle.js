@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[1160],{1160:(e,a,s)=>{"use strict";s.r(a),s.d(a,{default:()=>r});var t=s(2175);function r(e){var a=e.get("states");if(a&&a.values&&a.values.grounded&&"true"===a.values.grounded){var s=t.gr.call(this,{name:"forces",scope:"common",params:{parts:{jump:{x:0,y:-35,z:0,rotateX:0,rotateY:0,duration:300,elapsed:0,easing:{scope:"ease",name:"easeOutCubic"},ending:{scope:"aJam",name:"fall"}}}}}),r=e.get("forces");r.parts.jump=s.parts.jump,r.parts.fall&&delete r.parts.fall}}}}]);
+//# sourceMappingURL=1160_bundle.js.map

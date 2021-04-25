@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6051],{6051:(e,u,s)=>{"use strict";function t(e){var u=e.get("states");u&&u.values&&(u.values.crouched="true")}s.r(u),s.d(u,{default:()=>t})}}]);
+//# sourceMappingURL=6051_bundle.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5662],{5662:(s,c,n)=>{"use strict";function e(s){var c=this;Object.values(s).forEach((function(s){s.get("commands").commands.forEach((function(n){c.scripts.snippets[n.scope][n.name](s)})),s.remove("commands")}))}n.r(c),n.d(c,{commands:()=>e})}}]);
+//# sourceMappingURL=5662_bundle.js.map

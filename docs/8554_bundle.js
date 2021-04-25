@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8554],{8554:(e,s,a)=>{"use strict";a.r(s),a.d(s,{default:()=>r});var p=a(2175);function r(e){var s=p.gr.call(this,{name:"forces",scope:"common",params:{parts:[{y:8,duration:0,easing:{type:"snippets",scope:"ease",name:"easeInQuart"},elapsed:0}]}});e.get("forces").parts.push(s.parts[0])}}}]);
+//# sourceMappingURL=8554_bundle.js.map

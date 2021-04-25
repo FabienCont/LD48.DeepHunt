@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8641],{8641:s=>{"use strict";s.exports=JSON.parse('[{"x":0,"y":0,"columns":1,"rows":1,"width":96,"height":32,"animations":[{"frames":[{"x":0,"y":0,"width":96,"height":32}],"framerate":8,"alias":"spike"}],"alias":"spike"}]')}}]);

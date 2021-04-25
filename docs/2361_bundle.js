@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2361],{2361:(s,e,a)=>{"use strict";a.r(e),a.d(e,{default:()=>n});var p=a(2175);function n(s){var e=s.get("sounds"),a={name:"sounds",scope:"common",params:{parts:{spike:{scope:"demo",name:"spike"}}}};a=p.gr.call(this,a),e.parts.spike=a.parts.spike}}}]);
+//# sourceMappingURL=2361_bundle.js.map

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5081],{5081:e=>{"use strict";e.exports=JSON.parse('[{"name":"text","scope":"common","components":["text","camera"]},{"name":"renderText","scope":"canvas2d","components":[""]}]')}}]);
