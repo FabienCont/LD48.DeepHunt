@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[16],{16:(e,s,r)=>{"use strict";r.r(s),r.d(s,{default:()=>i});var t=r(2175);function i(e){var s=e.get("sprites");if(s&&s.parts&&!s.parts.discover){var r=t.gr.call(this,{name:"sprites",scope:"common",params:{parts:{discover:{source:"discover-idle",size:{width:32,height:32},destination:{x:0,y:-64},opacity:1}}}});s.parts.discover=r.parts.discover;var i=e.get("forces");i.parts.removeDiscover&&delete i.parts.removeDiscover,this.scripts.snippets.aJam.timeoutRemoveDiscover.call(this,e)}}}}]);
+//# sourceMappingURL=16_bundle.js.map

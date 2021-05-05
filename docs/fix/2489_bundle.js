@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2489],{2489:(e,s,t)=>{"use strict";function a(e){var s=e.get("forces"),t=e.get("sprites");delete s.parts.moveLeft,delete s.parts.moveRight,delete s.parts.escapeRight,delete s.parts.escapeLeft,t.parts.main.animation.frame=0,this.scripts.snippets.aJam.setInputsPerso.call(this,e),"perso-walk-right"===t.parts.main.source?t.parts.main.source="perso-idle-left":"perso-walk-left"===t.parts.main.source&&(t.parts.main.source="perso-idle-right")}t.r(s),t.d(s,{default:()=>a})}}]);
+//# sourceMappingURL=2489_bundle.js.map

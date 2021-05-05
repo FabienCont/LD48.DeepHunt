@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5050],{5050:(e,s,a)=>{"use strict";a.r(s),a.d(s,{default:()=>o});var t=a(2175);function o(e){var s=t.gr.call(this,{name:"forces",scope:"common",params:{parts:{forcesDown:{x:0,y:8,z:0,rotateX:0,rotateY:0,rotateZ:60,duration:250,easing:{type:"snippets",scope:"demo",name:"ease-in"},handling:{type:"snippets",scope:"demo",name:"rotation-limit"},elapsed:0}}}});e.get("forces").parts.forcesDown=s.parts.forcesDown}}}]);
+//# sourceMappingURL=5050_bundle.js.map

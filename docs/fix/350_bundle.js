@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[350],{350:e=>{"use strict";e.exports=JSON.parse('{"name":"parallax","params":{"cameraRef":{"_type":"string","_default":"default"},"direction":{"_type":"object","_default":0,"x":{"_type":"number","_default":0},"y":{"_type":"number","_default":0}}}}')}}]);

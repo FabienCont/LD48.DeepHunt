@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[7003],{7003:(e,t,a)=>{"use strict";function s(e){var t=e.get("forces");if(t&&t.parts&&t.parts.moveLeft&&delete t.parts.moveLeft,!t.parts.moveRight){var a=e.get("sprites");a.parts.main.source="perso-idle-left",a.parts.main.animation.frame=0}}a.r(t),a.d(t,{default:()=>s})}}]);
+//# sourceMappingURL=7003_bundle.js.map

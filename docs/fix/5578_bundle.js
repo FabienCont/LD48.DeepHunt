@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5578],{5578:e=>{"use strict";e.exports=JSON.parse('{"redirect":false,"nextScene":"splash"}')}}]);

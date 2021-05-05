@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2482],{2482:e=>{"use strict";e.exports=JSON.parse('{"name":"tutoHide","scope":"demo","components":[{"name":"camera","scope":"common","params":{}},{"name":"position","scope":"common","params":{}},{"name":"sprites","scope":"common","params":{"parts":{"main":{"source":"tuto-hide","size":{"width":96,"height":96}}}}}]}')}}]);

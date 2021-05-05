@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2554],{2554:(e,s,t)=>{"use strict";t.r(s),t.d(s,{default:()=>a});var r=t(2294);function a(e,s,t){this.$world.remove(t),this.$variables.score+=1,this.$variables.score>this.$variables.bestScore&&(this.$variables.bestScore=this.$variables.score,r.t8("bestScore",this.$variables.bestScore))}},2294:(e,s,t)=>{"use strict";function r(e){var s=window.localStorage.getItem(e);return s?JSON.parse(s):s}function a(e,s){window.localStorage.setItem(e,JSON.stringify(s))}t.d(s,{U2:()=>r,t8:()=>a})}}]);
+//# sourceMappingURL=2554_bundle.js.map

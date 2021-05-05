@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6302],{6302:(n,t,u)=>{"use strict";function i(n){var t=n.x,u=n.y;this.$cameras.debug&&function(n,t,u){var i=n.position.x(),e=n.position.y();n.look((function(){return i+t}),(function(){return e+u}),(function(){return n.position.z}))}(this.$cameras.debug,t,u)}u.r(t),u.d(t,{default:()=>i})}}]);
+//# sourceMappingURL=6302_bundle.js.map

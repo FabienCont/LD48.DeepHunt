@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2686],{2686:e=>{"use strict";e.exports=JSON.parse('{"name":"inputs","params":{"inputs":{"_default":[],"_type":"array<object>","_object":{"action":{"_type":"string"},"state":{"_type":"string"},"command":{"_type":"object","scope":{"_default":"demo","_type":"string"},"name":{"_type":"string"}}}}}}')}}]);

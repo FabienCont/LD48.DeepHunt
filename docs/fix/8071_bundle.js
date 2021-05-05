@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8071],{8071:s=>{"use strict";s.exports=JSON.parse('[{"name":"inputs","scope":"common","components":["inputs"]},{"name":"commands","scope":"demo","components":["commands"]}]')}}]);

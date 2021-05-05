@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8350],{8350:(s,t,i)=>{"use strict";function a(s){this.scripts.snippets.aJam.loadCheckpoint.call(this,s),this.scripts.snippets.aJam.setInputsPerso.call(this,s);var t=s.get("sprites");t.parts.main.source="perso-idle-right",t.parts.main.animation.frame=0,this.scripts.snippets.aJam.soundDie.call(this,s)}i.r(t),i.d(t,{default:()=>a})}}]);
+//# sourceMappingURL=8350_bundle.js.map

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2099],{2099:e=>{"use strict";e.exports=JSON.parse('{"name":"clickEnterText","scope":"splash","components":[{"name":"camera","scope":"common","params":{}},{"name":"position","scope":"common","params":{}},{"name":"text","scope":"common","params":{"color":"white","lineWidth":1,"text":"Press Enter"}}]}')}}]);

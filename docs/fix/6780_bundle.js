@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6780],{6780:(t,e,n)=>{"use strict";function u(t){var e=Object.values(t);if(1===e.length){var n=e[0];this.$cameras.default.look((function(){return n.get("position").x+48}),(function(){return 72}),(function(){return n.get("position").z}))}}n.r(e),n.d(e,{updateCameraPos:()=>u})}}]);
+//# sourceMappingURL=6780_bundle.js.map

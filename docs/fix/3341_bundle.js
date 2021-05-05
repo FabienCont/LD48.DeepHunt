@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[3341],{3341:(e,s,t)=>{"use strict";function r(e){var s=e.get("sprites");s&&s.parts&&s.parts.discover&&delete s.parts.discover}t.r(s),t.d(s,{default:()=>r})}}]);
+//# sourceMappingURL=3341_bundle.js.map

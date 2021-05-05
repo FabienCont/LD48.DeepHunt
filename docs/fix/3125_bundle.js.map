@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/aJam/empty.js"],"names":["empty"],"mappings":"oFAAe,SAASA,K","file":"3125_bundle.js","sourcesContent":["export default function empty() {\r\n\r\n}\r\n"],"sourceRoot":""}

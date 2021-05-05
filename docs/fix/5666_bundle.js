@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5666],{5666:(e,a,s)=>{"use strict";s.r(a),s.d(a,{renderShapes2d:()=>c});var n=s(6521);function c(e){Object.values(e).forEach((function(e){e.get("position");var a=e.get("shapes2d");(0,n.bp)(e.get("camera").name).screen,a.x,a.y}))}}}]);
+//# sourceMappingURL=5666_bundle.js.map

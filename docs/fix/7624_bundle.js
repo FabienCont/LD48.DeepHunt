@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[7624],{7624:(e,s,t)=>{"use strict";function u(e,s){var t=e.get("states");t&&t.values&&"true"===t.values.crouched&&(t.values.hided="true",e.get("sprites").parts.main.size.height=48,e.get("position").z=-1)}t.r(s),t.d(s,{default:()=>u})}}]);
+//# sourceMappingURL=7624_bundle.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./sources/game/scripts/snippets/end/goToSplashScreen.js"],"names":["newFile","this","load"],"mappings":"oFAAe,SAASA,IAClBC,KAAKC,KAAK,U","file":"6188_bundle.js","sourcesContent":["export default function newFile() {\r\n      this.load(\"splash\");\r\n}\r\n"],"sourceRoot":""}

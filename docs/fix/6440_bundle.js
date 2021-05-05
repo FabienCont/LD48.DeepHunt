@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6440],{6440:e=>{"use strict";e.exports=JSON.parse('{"name":"score","params":{}}')}}]);

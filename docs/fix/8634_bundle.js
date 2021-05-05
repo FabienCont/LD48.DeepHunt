@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8634],{8634:(e,c,n)=>{"use strict";function s(e){console.log("character.forces.handling","new")}n.r(c),n.d(c,{default:()=>s})}}]);
+//# sourceMappingURL=8634_bundle.js.map

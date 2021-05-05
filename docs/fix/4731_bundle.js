@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[4731],{4731:(e,t,a)=>{"use strict";function n(e){var t=this,a=e.x,n=e.y;if(this.$cameras.debug){var s=this.$variables.$debug;s.selectedElements.forEach((function(e){var i=e.get("position"),r=Math.round(a),d=Math.round(n);s.followGrid&&(r-=r%s.stepGrid,d-=d%s.stepGrid);var o={index:e.index,component:i,val:{x:r,y:d,z:i.z}};t.params.updateComponent(o)}))}}a.r(t),a.d(t,{default:()=>n})}}]);
+//# sourceMappingURL=4731_bundle.js.map

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[835],{835:e=>{"use strict";e.exports=JSON.parse('["CLICK_LEFT","KEY_ENTER","KEY_SHIFT","KEY_SPACE"]')}}]);

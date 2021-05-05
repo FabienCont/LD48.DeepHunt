@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5212],{5212:(t,e,i)=>{"use strict";function s(){if(this.$world&&this.$world.entities){var t=Object.values(this.$world.entities);if(t.length>0){var e=t[0],i=e.get("position");if(e&&i)return i.y}return s.bind(this)}}i.r(e),i.d(e,{default:()=>s})}}]);
+//# sourceMappingURL=5212_bundle.js.map

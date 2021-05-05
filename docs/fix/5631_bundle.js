@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5631],{5631:e=>{"use strict";e.exports=JSON.parse('[{"x":0,"y":0,"columns":1,"rows":1,"width":480,"height":320,"animations":[{"frames":[{"x":0,"y":0,"width":480,"height":320}],"framerate":8,"alias":"bg-tree"}],"alias":"bg-tree"}]')}}]);

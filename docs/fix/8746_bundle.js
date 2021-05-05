@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8746],{7172:(t,s,c)=>{"use strict";function e(){var t=this;this.$controllers.inputs.forEach((function(s){var c=s.action,e=s.state,i=s.x,n=s.y;switch("".concat(c,"_").concat(e)){case"SCROLL_UP":t.scripts.snippets.editor.zoom({x:i,y:n});break;case"SCROLL_DOWN":t.scripts.snippets.editor.dezoom(i,n)}}))}c.r(s),c.d(s,{debugInputsEntity:()=>e})}}]);
+//# sourceMappingURL=8746_bundle.js.map

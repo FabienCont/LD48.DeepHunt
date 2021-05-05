@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[2143],{2939:(e,n,r)=>{"use strict";var t=r(8508),a=document.body.querySelector(".theatre-container");new t.Z({container:a,expose:!0,sharp:!0})}},0,[[2939,4805]]]);
+//# sourceMappingURL=app_bundle.js.map

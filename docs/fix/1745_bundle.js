@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[1745],{1745:(s,e,a)=>{"use strict";function i(){console.log("paste",this.$variables.$debug.cursorPos);var s=this.$variables.$debug.cursorPos.x,e=this.$variables.$debug.cursorPos.y;this.$variables.$debug.followGrid&&(s-=s%this.$variables.$debug.stepGrid,e-=e%this.$variables.$debug.stepGrid),this.params.pasteEntities({pos:{x:s,y:e,z:0}})}a.r(e),a.d(e,{default:()=>i})}}]);
+//# sourceMappingURL=1745_bundle.js.map
